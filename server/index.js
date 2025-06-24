@@ -56,5 +56,3 @@ connectDB().then(()=>{
 })
 
 
-//motu26927
-//9AoSr38gqBwUeoOY
